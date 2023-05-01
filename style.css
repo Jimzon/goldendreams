@@ -164,7 +164,16 @@ h3 {
 }
 
 /*----Projects-----*/
-
+.project-sub-header {
+  height: 60vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+    url(images/service5.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
 .projects {
   width: 80%;
   margin: auto;
@@ -515,7 +524,16 @@ h3 {
 }
 
 /*----Contact Us Page-----*/
-
+.contact-sub-header {
+  height: 60vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+    url(images/contact.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
 .location {
   width: 80%;
   margin: auto;
