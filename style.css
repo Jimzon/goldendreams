@@ -782,3 +782,7 @@ form label {
     height: 400px;
   }
 }
+.video-content {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
